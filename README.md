@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hailmiks&label=Profile%20views&color=0e75b6&style=flat" alt="hailmiks" /> </p>
 
-- 🔭 I’m currently working on **StudyBuddy: A.I. Flashcard Maker**
+- 🔭 I’m currently working on **Deep Watch: Integrating YOLOv8-Pose, ByteTrack, and LSTM for a Real-time Drowning Detection System.**
 
-- 🌱 I’m currently learning **Flutter, Python, TensorFlow**
+- 🌱 I’m currently learning **Python, TensorFlow, and Pytorch**
 
-- 📫 How to reach me **mikhailangelom@gmail.com**
+- 📫 How to reach me **mistulamikhailangelo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
